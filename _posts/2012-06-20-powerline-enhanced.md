@@ -10,8 +10,7 @@ tags: [emacs]
 I've added a few different xpm shapes as alternatives to the arrows or
 flatshapes, a rounded or folded corner, and a set of diagonals. 
 
-Grab powerline from here:
-[<span class="icon-download icon-white"></span> https://gist.github.com/2945235](https://gist.github.com/2945235)
+Grab powerline from here: [https://gist.github.com/2945235](https://gist.github.com/2945235) <span class="icon-download icon-white"></span>
 
 Put it somewhere in your Emacs load path (e.g. `~/.emacs.d`) and add
 the following lines to the end of your `.emacs` / `init.el` - to load
