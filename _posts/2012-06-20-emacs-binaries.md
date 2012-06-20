@@ -20,7 +20,7 @@ teeth nashing.
 The binary can be downloaded from here:
 
 > ![](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-british-racing-green.png)
-> <br/> [/EmacsFodder/emacs-lion-fullscreen-os-x-10.7.4.tar.7z](/EmacsFodder/emacs-lion-fullscreen-os-x-10.7.4.tar.7z)
+> <br/> [emacs-24.1.5-lion-fullscreen-os-x-10.7.4.tar.7z](/EmacsFodder/emacs-24.1.5-lion-fullscreen-os-x-10.7.4.tar.7z)
 
 *(You'll need 7z/tar to uncompress it, [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) will do the trick.)*
 
@@ -36,7 +36,7 @@ things I make you do.
 The link for this binary is:
 
 > ![](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-card-british-racing-green.png)
-> <br/> [/EmacsFodder/emacs-ns-fullscreen-osx-10.6.8.tar.7z](/EmacsFodder/emacs-ns-fullscreen-osx-10.6.8.tar.7z)
+> <br/> [emacs-24.1.5-ns-fullscreen-osx-10.6.8.tar.7z](/EmacsFodder/emacs-24.1.5-ns-fullscreen-osx-10.6.8.tar.7z)
 
 Ok, so that's the first post here. Enjoy.
 
