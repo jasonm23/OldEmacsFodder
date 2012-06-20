@@ -44,9 +44,9 @@ it, set the colors and graphic shape:
 
     (setq powerline-arrow-shape 'curve)       ;; scallop curve
 
-### New shapes in this version
-
 ![](http://ocodo.info/powerline/curve.png)
+
+### New shapes in this version
 
     (setq powerline-arrow-shape 'rounded)     ;; new, round corner
 
