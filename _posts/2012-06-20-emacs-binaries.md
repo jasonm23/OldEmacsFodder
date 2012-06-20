@@ -12,7 +12,7 @@ For convenience, I've built a couple of OS X binaries of Emacs24.1.5,
 First, built with Lion OS X 10.7.4 and patched to use Lion's new
 fullscreen mode, I have tested it only on 10.7.4 (in fact I'm writing
 this post with it.) but, personally I prefer the old
-`ns-toggle-fullscreen` style of Fullscreen, as I use multiple
+*ns-toggle-fullscreen* style of Fullscreen, as I use multiple
 monitors. However, it's useful if you have one screen and prefer the
 Mission control screen swiping style. Non Mac users, suspend your
 teeth nashing.
@@ -25,7 +25,7 @@ The binary can be downloaded from here:
 *(You'll need 7z/tar to uncompress it, [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) will do the trick.)*
 
 I've also built a 10.6.8 (and up) compatible build of Emacs24.1.5
-with the older `ns-toggle-fullscreen` patch, which does non-exclusive
+with the older *ns-toggle-fullscreen* patch, which does non-exclusive
 fullscreen, TBH, I'd recommend you get this one unless you're *really*
 wanting the little Lion OS X fullscreen window widget.
 
