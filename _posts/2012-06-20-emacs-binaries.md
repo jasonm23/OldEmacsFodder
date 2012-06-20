@@ -26,7 +26,7 @@ The binary can be downloaded from here:
 
 * [/EmacsFodder/emacs-lion-fullscreen-os-x-10.7.4.tar.7z](/EmacsFodder/emacs-lion-fullscreen-os-x-10.7.4.tar.7z)
 
-> (You'll need 7z/tar to uncompress it, The Unarchiver will do the trick.)
+*(You'll need 7z/tar to uncompress it, [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html) will do the trick.)*
 
 I've also built a 10.6.8 (and up) compatible build of Emacs24.1.5
 with the older `ns-toggle-fullscreen` patch, which does non-exclusive
