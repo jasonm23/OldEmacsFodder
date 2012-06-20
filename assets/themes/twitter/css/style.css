@@ -17,63 +17,26 @@ div, p, code, pre {
 }
 
 code, pre {
-    background-color: #121212;
+    background-color: #042028;
     border-color: #000 #444 #555 #000;
-    color: #dadbb1;
+    color: #2075c7;
 }
 
 /*
-#000
-#006699
-#0066cc
-#111111
-#121212
-#202020
-#222
-#222222
-#252525
-#2f2f2f
-#307eb6
-#323232
-#333
-#343434
-#3d95e6
-#3f5fbf
-#414141
-#444444
-#4fa33f
-#64b041
-#666666
-#6cc7eb
-#6e6e6e
-#7f0055
-#84bcde
-#878a85
-#98f77a
-#BFBFBF
-#aa7700
-#aaaaaa
-#b0b76b
-#b553ba
-#bbb
-#bbbbbb
-#bfbfbf
-#c00
-#c6c6c6
-#ca6436
-#ccc
-#cd5c57
-#d40408
-#dadbb1
-#dbdbdb
-#e0e8ff
-#e5e5e5
-#ececec
-#eee
-#fb292d
-#fea
-#ffa0a0
-#ffaa3e
-#fff
-
+#000      #84bcde   #002b36  #042028  #1c1c1c  #414141   #d40408
+#006699   #878a85   #073642  #0a2832  #262626  #444444   #dadbb1
+#0066cc   #98f77a   #586e75  #465a61  #585858  #4fa33f   #dbdbdb
+#111111   #BFBFBF   #657b83  #52676f  #626262  #64b041   #e0e8ff
+#121212   #aa7700   #839496  #708183  #808080  #666666   #e5e5e5
+#202020   #aaaaaa   #93a1a1  #81908f  #8a8a8a  #6cc7eb   #ececec
+#222      #b0b76b   #eee8d5  #e9e2cb  #e4e4e4  #6e6e6e   #eee   
+#222222   #b553ba   #fdf6e3  #fcf4dc  #ffffd7  #7f0055   #fb292d
+#252525   #bbb      #b58900  #a57705  #af8700  #ffaa3e   #fea   
+#2f2f2f   #bbbbbb   #cb4b16  #bd3612  #d75f00  #fff      #ffa0a0
+#307eb6   #bfbfbf   #dc322f  #c60007  #d70000  
+#323232   #c00      #d33682  #c61b6e  #af005f
+#333      #c6c6c6   #6c71c4  #5859b7  #5f5faf
+#343434   #ca6436   #268bd2  #2075c7  #0087ff
+#3d95e6   #ccc      #2aa198  #259185  #00afaf
+#3f5fbf   #cd5c57   #859900  #728a05  #5f8700
 */
