@@ -54,7 +54,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://jasonm23.github.com/EmacsFodder/
+  BASE_PATH : http://jasonm23.github.com/EmacsFodder
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -69,20 +69,20 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change theme here if needed.
   #
-  archive_path: /EmacsFodder/archive.html
-  categories_path : /EmacsFodder/categories.html
-  tags_path : /EmacsFodder/tags.html
+  archive_path: /archive.html
+  categories_path : /categories.html
+  tags_path : /tags.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : false
+    provider : disqus
     disqus :
-      short_name : 
+      short_name : efodderjm23
     livefyre :
-      site_id : 123
+      site_id : efodderjm23
     intensedebate :
       account : 123abc
     facebook :
