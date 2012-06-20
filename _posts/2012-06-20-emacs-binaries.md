@@ -7,13 +7,6 @@ tags: [lion, osx, fullscreen, binaries, cocoa]
 ---
 {% include JB/setup %}
 
-Welcome to EmacsFodder, this is a place I'll post my various emacs
-things.
-
-As of now, you'll find a set of Emacs icons, themes and a theme editor
-at [http://jasonm23.github.com](http://jasonm23.github.com) so
-perhaps, you'd like to see those.
-
 For convenience, I've built a couple of OS X binaries of Emacs24.1.5, 
 
 First, built with Lion OS X 10.7.4 and patched to use Lion's new
