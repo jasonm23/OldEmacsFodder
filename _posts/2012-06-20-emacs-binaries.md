@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Emacs 24.1.5 OSX Fullscreen Binaries"
-description: "a pair of binaries of Emacs.app for OSX, Lion Fullscreen
-and old style ns-toggle-fullscreen"
+description: "Two Emacs.app 24.1.5 binaries for OSX, 1. Lion Fullscreen and 2. Classic ns-toggle-fullscreen"
 category: emacs
 tags: [lion, osx, fullscreen, binaries, cocoa]
 ---
@@ -39,9 +38,7 @@ things I make you do.
 
 The link for this binary is:
 
-* [http://ocodo.info/emacs-ns-fullscreen-osx-10.6.8.tar.7z](http://ocodo.info/emacs-ns-fullscreen-osx-10.6.8.tar.7z)
-
-*(this will move later, so refresh this page before you download)*
+* [/EmacsFodder/emacs-ns-fullscreen-osx-10.6.8.tar.7z](/EmacsFodder/emacs-ns-fullscreen-osx-10.6.8.tar.7z)
 
 Ok, so that's the first post here. Enjoy.
 
