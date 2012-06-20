@@ -12,7 +12,7 @@ Welcome to EmacsFodder, this is a place I'll post my various emacs
 things.
 
 As of now, you'll find a set of Emacs icons, themes and a theme editor
-at http://jasonm23.github.com so perhaps, you'd like to see those.
+at [http://jasonm23.github.com](http://jasonm23.github.com) so perhaps, you'd like to see those.
 
 First up is a binary of Emacs24.1.5, built with Lion OS X 10.7.4 and patched
 to use Lion's new fullscreen mode, I have tested it only on 10.7.4 (in
@@ -24,7 +24,7 @@ teeth nashing.
 
 The binary can be downloaded from here:
 
-* /EmacsFodder/emacs-lion-fullscreen-os-x-10.7.4.tar.7z
+* [/EmacsFodder/emacs-lion-fullscreen-os-x-10.7.4.tar.7z](/EmacsFodder/emacs-lion-fullscreen-os-x-10.7.4.tar.7z)
 
 > (You'll need 7z/tar to uncompress it, The Unarchiver will do the trick.)
 
@@ -37,9 +37,9 @@ It's quite possible to get the same mission control style operation,
 but you'll need to drag it to it's own space... yeah, I know, the
 things I make you do.
 
-Anyway, the link for this binary is:
+The link for this binary is:
 
-* http://ocodo.info/emacs-ns-fullscreen-osx-10.6.8.tar.7z
+* [http://ocodo.info/emacs-ns-fullscreen-osx-10.6.8.tar.7z](http://ocodo.info/emacs-ns-fullscreen-osx-10.6.8.tar.7z)
 
 *(this will move later, so refresh this page before you download)*
 
