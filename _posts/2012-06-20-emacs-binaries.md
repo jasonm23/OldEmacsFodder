@@ -12,7 +12,7 @@ Welcome to EmacsFodder, this is a place I'll post my various emacs
 things.
 
 As of now, you'll find a set of Emacs icons, themes and a theme editor
-at http://jasonm23.github.com so you may want to see those.
+at http://jasonm23.github.com so perhaps, you'd like to see those.
 
 First up is a binary of Emacs24.1.5, built with Lion OS X 10.7.4 and patched
 to use Lion's new fullscreen mode, I have tested it only on 10.7.4 (in
