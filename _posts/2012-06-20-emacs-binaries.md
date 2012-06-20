@@ -4,7 +4,7 @@ title: "Emacs 24.1.5 OSX Fullscreen Binaries"
 description: "a pair of binaries of Emacs.app for OSX, Lion Fullscreen
 and old style ns-toggle-fullscreen"
 category: emacs
-tags: [lion osx fullscreen binaries cocoa]
+tags: [lion, osx, fullscreen, binaries, cocoa]
 ---
 {% include JB/setup %}
 
