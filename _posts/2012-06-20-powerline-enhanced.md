@@ -7,6 +7,9 @@ tags: [emacs]
 ---
 {% include JB/setup %}
 
+Powerline is an awesome little enhancement for Emacs, by an original
+author unknown, you can find the original version at [http://emacswiki.org/emacs/powerline.el](http://emacswiki.org/emacs/powerline.el)
+
 I've added a few different xpm shapes as alternatives to the arrows or
 flatshapes, a rounded or folded corner, and a set of diagonals. 
 
