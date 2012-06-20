@@ -16,7 +16,7 @@ div, p, code, pre {
     line-height: 19px;
 }
 
-code {
+code, pre {
     background-color: #121212;
     border-color: #000 #444 #555 #000;
     color: #dadbb1;
