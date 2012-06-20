@@ -12,7 +12,8 @@ body {
 }
 
 div, p, code, pre { 
-font-size: 14px;
+    font-size: 14px;
+    line-height: 19px;
 }
 
 code {
