@@ -5,6 +5,8 @@ tagline: slanted to OS X and Emacs 24.
 ---
 {% include JB/setup %}
 
+![](https://github.com/jasonm23/emacs-icons-project/raw/master/thumb/emacs-interlock-v2.png)
+
 Welcome to EmacsFodder, this is a place I'll post my various emacs
 things.
 
