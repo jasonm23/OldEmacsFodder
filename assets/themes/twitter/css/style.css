@@ -6,12 +6,69 @@ h1, h2, h3, .brand {
 }
 
 body {
-    background-color: #030614;
-    color: #bbb;
+    font-size: 14px;
+    background-color: #252525;
+    color: #aaa;
 }
 
 code {
-    background-color: #000;
+    background-color: #121212;
     border-color: #000 #444 #555 #000;
-    color: #cc7000;
+    color: #dadbb1;
 }
+
+/*
+#000
+#006699
+#0066cc
+#111111
+#121212
+#202020
+#222
+#222222
+#252525
+#2f2f2f
+#307eb6
+#323232
+#333
+#343434
+#3d95e6
+#3f5fbf
+#414141
+#444444
+#4fa33f
+#64b041
+#666666
+#6cc7eb
+#6e6e6e
+#7f0055
+#84bcde
+#878a85
+#98f77a
+#BFBFBF
+#aa7700
+#aaaaaa
+#b0b76b
+#b553ba
+#bbb
+#bbbbbb
+#bfbfbf
+#c00
+#c6c6c6
+#ca6436
+#ccc
+#cd5c57
+#d40408
+#dadbb1
+#dbdbdb
+#e0e8ff
+#e5e5e5
+#ececec
+#eee
+#fb292d
+#fea
+#ffa0a0
+#ffaa3e
+#fff
+
+*/
