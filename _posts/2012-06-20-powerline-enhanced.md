@@ -24,7 +24,7 @@ it, set the colors and graphic shape:
     (setq powerline-arrow-shape 'arrow) ;; mirrored arrows, 
     ;; see below for the shape options
     
-## Alternative shapes
+## Shapes
 
     (setq powerline-arrow-shape 'arrow)       ;; 18px high arrows  
 
@@ -46,7 +46,7 @@ it, set the colors and graphic shape:
 
 ![](http://ocodo.info/powerline/curve.png)
 
-### New shapes in this version
+## New shapes in this version
 
     (setq powerline-arrow-shape 'rounded)     ;; new, round corner
 
