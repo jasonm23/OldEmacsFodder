@@ -31,45 +31,45 @@ it, set the colors and graphic shape:
 
     (setq powerline-arrow-shape 'arrow)       ;; 18px high arrows  
 
-![](http://ocodo.info/powerline/arrow.png)
+![]({{ ASSET_PATH }}/arrow.png)
 
     (setq powerline-arrow-shape 'arrow14)     ;; 14px high arrows
 
-![](http://ocodo.info/powerline/arrow14.png)
+![]({{ ASSET_PATH }}/arrow14.png)
 
     (setq powerline-arrow-shape 'half)        ;; flat
 
-![](http://ocodo.info/powerline/half.png)
+![]({{ ASSET_PATH }}/half.png)
 
     (setq powerline-arrow-shape 'percent)     ;; ...? (I have no idea)
 
-![](http://ocodo.info/powerline/percent.png)
+![]({{ ASSET_PATH }}/percent.png)
 
     (setq powerline-arrow-shape 'curve)       ;; scallop curve
 
-![](http://ocodo.info/powerline/curve.png)
+![]({{ ASSET_PATH }}/curve.png)
 
 ## New shapes in this version
 
     (setq powerline-arrow-shape 'rounded)     ;; new, round corner
 
-![](http://ocodo.info/powerline/rounded.png)
+![]({{ ASSET_PATH }}/rounded.png)
 
     (setq powerline-arrow-shape 'chamfer)     ;; new, folded corner
 
-![](http://ocodo.info/powerline/chamfer.png)
+![]({{ ASSET_PATH }}/chamfer.png)
 
     (setq powerline-arrow-shape 'slant-left)  ;; new, diagonal from left
 
-![](http://ocodo.info/powerline/slant-left.png)
+![]({{ ASSET_PATH }}/slant-left.png)
 
     (setq powerline-arrow-shape 'slant-right) ;; new, diagonal from right
 
-![](http://ocodo.info/powerline/slant-right.png)
+![]({{ ASSET_PATH }}/slant-right.png)
 
     (setq powerline-arrow-shape 'slant)       ;; mirrored diagonals
 
-![](http://ocodo.info/powerline/slant.png)
+![]({{ ASSET_PATH }}/slant.png)
 
 ps. color theme here is called `color-theme-turquoise` it's available
 here:
