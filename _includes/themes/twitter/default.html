@@ -58,5 +58,21 @@
     </div> <!-- /container -->
 
     {% include JB/analytics %}
+    
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/syntax/deep-dark-lovely.css" type="text/css" media="screen" charset="utf-8">
+    <!-- script
+    src="http://cdnjs.cloudflare.com/ajax/libs/prettify/188.0.0/prettify.js">
+    </script -->
+    <script src="{{ ASSET_PATH }}/js/prettify.js"></script>
+    <script src="{{ ASSET_PATH }}/js/lang-lisp.js"></script>
+    <script>
+      var pres = document.getElementsByTagName("pre");
+      for (var i=0; i < pres.length; ++i) 
+      {
+        pres[i].className = "prettyprint linenums";
+      }
+      prettyPrint();
+    </script>
+    <!-- end Google Prettify -->
   </body>
 </html>

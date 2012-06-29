@@ -71,7 +71,3 @@ it, set the colors and graphic shape:
 
 ![]({{ ASSET_PATH }}/slant.png)
 
-ps. color theme here is called `color-theme-turquoise` it's available
-here:
-
-* [color-theme-turquoise] (https://github.com/ocodo/emacs.d/blob/master/dropins/color-theme-turquoise.el)

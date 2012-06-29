@@ -11,17 +11,17 @@ body {
     color: #aaa;
 }
 
-div, p, code, pre { 
+
+div, p, code { 
     font-size: 14px;
     line-height: 19px;
 }
 
-code, pre {
+code {
     background-color: #111111;
     border-color: #000 #444 #555 #000;
     color: #eee8d5;
 }
-
 
 /*
 #000      #84bcde   #002b36  #042028  #1c1c1c  #414141   #d40408
