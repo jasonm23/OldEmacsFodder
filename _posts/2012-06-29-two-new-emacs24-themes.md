@@ -59,11 +59,11 @@ The help buffer will give you a link to the source code, and you can study it fu
 
 ## Two new themes... 
 
-![](/assets/emacs24.themes.vol1.png)
+![]({{ ASSET_PATH }}/emacs24.themes.vol1.png)
 
-<p class=""><a href="/assets/DeepBlueDay-theme.el" class="btn btn-primary btn-large">DeepBlueDay-theme.el</a></p>
+<p class=""><a href="{{ ASSET_PATH }}/DeepBlueDay-theme.el" class="btn btn-primary btn-large">DeepBlueDay-theme.el</a></p>
 
-<p class=""><a href="/assets/MechanicalTurq-theme.el" class="btn btn-primary btn-large">MechanicalTurq-theme.el</a></p>
+<p class=""><a href="{{ ASSET_PATH }}/MechanicalTurq-theme.el" class="btn btn-primary btn-large">MechanicalTurq-theme.el</a></p>
 
 Save them to your emacs custom theme folder, `~/.emacs.d/` by default, and in Emacs use `M-x enable-theme` to load and enable them (TAB completion will be available there, to make your life easier.)
 
