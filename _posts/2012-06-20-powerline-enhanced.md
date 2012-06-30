@@ -2,8 +2,8 @@
 layout: post
 title: "Powerline.el enhanced"
 description: "poweline.el for emacs, modeline beautified"
-category: emacs
-tags: [emacs]
+category: Emacs
+tags: [emacs, customization]
 ---
 {% include JB/setup %}
 

@@ -2,7 +2,7 @@
 layout: post
 title: "HexRGB.el with some extras"
 description: "a few useful enhancements for hexrgb.el"
-category: emacs
+category: Emacs
 tags: [emacs, color, hexcolor, hsv]
 ---
 
