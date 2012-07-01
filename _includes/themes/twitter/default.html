@@ -29,7 +29,7 @@
 
   <body>
 
-    <div class="navbar">
+    <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
@@ -42,15 +42,15 @@
       </div>
     </div>
 
-    <div class="container">
-
-      <div class="content">
+    <div class="container ">
+      <div class="content" style="margin-top:50px">
         {{ content }}
       </div>
 
       <footer>
         <p>&copy; {{ site.author.name }} 2012 
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+          with help from <a href="http://jekyllbootstrap.com"
+          target="_blank" title="The Definitive Jekyll Blogging Framework, hell yeah!">Jekyll Bootstrap</a>
           and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
         </p>
       </footer>
