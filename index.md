@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Emacs Fodder
-tagline: This ain't your daddies Emacs
+tagline: all new, all Emacs...
 ---
 {% include JB/setup %}
 
