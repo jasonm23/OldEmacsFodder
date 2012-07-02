@@ -1,16 +1,11 @@
 ---
 layout: page
 title: Emacs Fodder
-tagline: slanted to OS X and Emacs 24.
+tagline: This ain't your daddies Emacs
 ---
 {% include JB/setup %}
 
-Welcome to EmacsFodder, this is a place I'll post my various emacs
-things.
-
-As of now, you'll find a set of Emacs icons, themes and a theme editor
-at [http://jasonm23.github.com](http://jasonm23.github.com) so
-perhaps, you'd like to see those.
+I have some old stuff in at [http://jasonm23.github.com](http://jasonm23.github.com) 
 
 Meanwhile...
 
