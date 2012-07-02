@@ -1,5 +1,5 @@
 (deftheme Tangerine
-  "Created 2012-07-02.")
+  "Tangerine Created by Jasonm23 - 2012-07-02.")
 
 (custom-theme-set-variables
  'Tangerine
