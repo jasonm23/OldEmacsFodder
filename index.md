@@ -22,15 +22,53 @@ Meanwhile...
   //]]>
 </script>
 <style>
-  .block {
-    background-color: #000;
-    border: 2px solid #2d2d2d;
+
+
+
+.block * { 
+    color: #514A41; 
+    text-shadow: none;
+}
+
+
+
+/*
+#CCBBA3 #CCBBA3 #CCBBA3 : 100% 
+#B7A892 #CCBCA7 #CCB8A3 : 90% 
+#A39582 #CCBEAB #CCB6A3 : 80% 
+#8E8272 #CCC0AF #CCB3A3 : 70% 
+#7A7061 #CCC1B3 #CCB1A3 : 60% 
+#665D51 #CCC3B7 #CCAEA3 : 50% 
+#514A41 #CCC5BB #CCACA3 : 40% 
+#3D3830 #CCC6BF #CCAAA3 : 30% 
+#282520 #CCC8C3 #CCA7A3 : 20% 
+#141210 #CCCAC7 #CCA5A3 : 10% 
+#000000 #CCCCCC #CCA3A3 : 0% 
+
+
+#CCBBA3 #CCBBA3 #CCBBA3 : 100% 
+#B7A892 #CCBCA7 #CCB8A3 : 90% 
+#A39582 #CCBEAB #CCB6A3 : 80% 
+#8E8272 #CCC0AF #CCB3A3 : 70% 
+#7A7061 #CCC1B3 #CCB1A3 : 60% 
+#665D51 #CCC3B7 #CCAEA3 : 50% 
+#514A41 #CCC5BB #CCACA3 : 40% 
+#3D3830 #CCC6BF #CCAAA3 : 30% 
+#282520 #CCC8C3 #CCA7A3 : 20% 
+#141210 #CCCAC7 #CCA5A3 : 10% 
+#000000 #CCCCCC #CCA3A3 : 0% 
+
+*/
+
+.block {
+    background-color: #CCC8C3;
+    border: 2px solid #CCC1B3;
     border-radius: 10px;
-    padding: 8px;
     margin: 8px;
-    -moz-box-shadow: 0px 8px 15px #111;
-    -webkit-box-shadow: 0px 8px 15px #111;
-    box-shadow: 0px 8px 15px #111;
+    padding: 12px;
+    -moz-box-shadow: 0px 12px 25px #000;
+    -webkit-box-shadow: 0px 12px 25px #000;
+    box-shadow: 0px 12px 25px #000;
   }
   #blocks {
     
