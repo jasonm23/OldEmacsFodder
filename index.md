@@ -16,8 +16,7 @@ Meanwhile...
       <div class="box">
           <h2> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> </h2>
           <p> {{ post.description }} </p>
-          <p> <em><strong>posted:</strong> <span>{{ post.date |
-  date_to_string }}</span></em> </p>
+          <p> <em><strong>posted:</strong> <span>{{ post.date | date_to_string }}</span></em> </p>
       </div>
   {% endfor %}
 </div>
