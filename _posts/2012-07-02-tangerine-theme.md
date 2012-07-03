@@ -26,9 +26,3 @@ btn-primary btn-large">Tangerine-theme.el</a>
 ### Tangerine Perl
 
 ![Sample Perl code Git.pm]({{ ASSET_PATH }}tangerine-perls.png)
-
-### Some Kandy Kolored Tangerine Flake Streamline Markdown
-
-![Sample Markdown]({{ ASSET_PATH }}tangerine-markdown.png)
-
-
