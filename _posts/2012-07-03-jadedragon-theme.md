@@ -10,15 +10,11 @@ tags: [emacs, deftheme, color-theme]
 <a href="{{ ASSET_PATH }}Jadedragon-theme.el" class="btn
 btn-primary btn-large">Jadedragon-theme.el</a>
 
-### markdown
-
-![editing this post]({{ ASSET_PATH }}jadedragon-markdown.png)
-
 ### emacs-lisp
 
 ![emacs-lisp]({{ ASSET_PATH }}jadedragon-emacslisp.png)
 
-### C 
+### ObjC 
 
-![c in an ObjC file]({{ ASSET_PATH }}jadedragon-objc.png)
+![SleepDisplay console utility]({{ ASSET_PATH }}jadedragon-objc.png)
 
