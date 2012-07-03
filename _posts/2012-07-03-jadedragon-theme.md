@@ -32,13 +32,13 @@ coding experience, I'll just put some screen-shots here.
 
 ### markdown
 
-![editing this post]({{ ASSETS_PATH }}jadedragon-markdown.png)
+![editing this post]({{ ASSET_PATH }}jadedragon-markdown.png)
 
 ### emacs-lisp
 
-![emacs-lisp]({{ ASSETS_PATH }}jadedragon-emacslisp.png)
+![emacs-lisp]({{ ASSET_PATH }}jadedragon-emacslisp.png)
 
 ### C 
 
-![c in an ObjC file]({{ ASSETS_PATH }}jadedragon-objc.png)
+![c in an ObjC file]({{ ASSET_PATH }}jadedragon-objc.png)
 
