@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Jade Dragon theme"
-description: "An Emacs24 Color theme that further exposes my love of
-turquoise."
+description: "Another Emacs24 Color theme"
 category: Emacs
 tags: [emacs, deftheme, color-theme]
 ---
