@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Jade Dragon theme for Emacs24"
-description: "Migrating a theme from color-theme format to deftheme"
+title: "Jade Dragon theme"
+description: "An Emacs24 Color theme that further exposes my love of
+turquoise."
 category: Emacs
 tags: [emacs, deftheme, color-theme]
 ---
+{% include JB/setup %}
 
 <a href="{{ ASSET_PATH }}Jadedragon-theme.el" class="btn
 btn-primary btn-large">Jadedragon-theme.el</a>
