@@ -25,10 +25,10 @@ that can prompt me to switch color themes as often as once every couple of weeks
 
 The one theme I have stuck with most often, when I'm not going
 [all orange](http://jasonm23.github.com/EmacsFodder/Emacs/2012/07/02/tangerine-theme)
-is this one, Jade Dragon, it's a dark theme, with cool tones, greens,
-shaeds of turquiose and blues, but rather than get all lyrical about
-it, or try and convince you it's scientifically proven to improve your
-coding experience, I'll just put some screen-shots here.
+is this one, Jade Dragon, it's a dark theme, with cool color tones,
+blues, greens and shades of turquiose. Anyway, rather than get overly
+lyrical, or try to convince you it's scientifically proven to improve
+your coding experience, I'll just put some screen-shots here.
 
 ### markdown
 
