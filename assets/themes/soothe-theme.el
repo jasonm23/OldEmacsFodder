@@ -67,7 +67,7 @@
        (alt-background "#111013")
        (foreground     "#dcdddd")
        (hl-line        "#11151a")
-       (selection      "#11151a")
+       (selection      "#311500")
       )
 
   (custom-theme-set-faces
